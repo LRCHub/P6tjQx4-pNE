@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ORDER",
+  "base_artist": "CLAN QUEEN",
+  "createdAt": "2026-02-15T04:08:54.841462Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Last Order",
+      "artist": "陈奕迅",
+      "has_synced": true,
+      "path": "select/01_Last_Order_陈奕迅.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LAST ORDER",
+      "artist": "陈奕迅",
+      "has_synced": true,
+      "path": "select/02_LAST_ORDER_陈奕迅.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Order of Protection",
+      "artist": "50 Cent feat. G Unit",
+      "has_synced": false,
+      "path": "select/03_Order_of_Protection_50_Cent_feat._G_Unit.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gagging Order",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/04_Gagging_Order_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Zealous Order of Candied Knights",
+      "artist": "Matmos",
+      "has_synced": false,
+      "path": "select/05_Zealous_Order_of_Candied_Knights_Matmos.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All Out of Order",
+      "artist": "Nite Jewel",
+      "has_synced": false,
+      "path": "select/06_All_Out_of_Order_Nite_Jewel.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All Out of Order (Spanish Version)",
+      "artist": "Nite Jewel",
+      "has_synced": false,
+      "path": "select/07_All_Out_of_Order_(Spanish_Version)_Nite_Jewel.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Beauty Through Order",
+      "artist": "Slayer",
+      "has_synced": true,
+      "path": "select/08_Beauty_Through_Order_Slayer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Erian's Mystical Rhymes (The White Dragon's Order)",
+      "artist": "Rhapsody",
+      "has_synced": true,
+      "path": "select/09_Erian's_Mystical_Rhymes_(The_White_Dragon's_Order)_Rhapsody.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Erian's Mystical Rhymes \u0000 The White Dragon's Order",
+      "artist": "Rhapsody",
+      "has_synced": true,
+      "path": "select/10_Erian's_Mystical_Rhymes_\u0000_The_White_Dragon's_Order_Rhapsody.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Order Of The Golden Dawn",
+      "artist": "Daedelus",
+      "has_synced": false,
+      "path": "select/11_Order_Of_The_Golden_Dawn_Daedelus.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Order Of The Golden Dawn",
+      "artist": "Daedelus",
+      "has_synced": true,
+      "path": "select/12_Order_Of_The_Golden_Dawn_Daedelus.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "first order of business",
+      "artist": "Baby Keem",
+      "has_synced": true,
+      "path": "select/13_first_order_of_business_Baby_Keem.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Big Order",
+      "artist": "Lil Keed",
+      "has_synced": true,
+      "path": "select/14_Big_Order_Lil_Keed.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Last Order For Gary Stead",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/15_Last_Order_For_Gary_Stead_Saint_Etienne.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ORDER",
+      "artist": "CLAN QUEEN",
+      "has_synced": false,
+      "path": "select/pl_01_ORDER_CLAN_QUEEN.txt"
+    }
+  ]
+}
