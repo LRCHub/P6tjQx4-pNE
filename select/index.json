@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ORDER",
   "base_artist": "CLAN QUEEN",
-  "createdAt": "2026-02-15T04:08:54.841462Z",
+  "createdAt": "2026-03-30T13:21:58.892839Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,6 +131,15 @@
       "artist": "CLAN QUEEN",
       "has_synced": false,
       "path": "select/pl_01_ORDER_CLAN_QUEEN.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ORDER",
+      "artist": "CLAN QUEEN",
+      "has_synced": false,
+      "path": "select/localdb_01_ORDER_CLAN_QUEEN.txt",
+      "repo_name": "P6tjQx4-pNE"
     }
   ]
 }
